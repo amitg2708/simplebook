@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+*.log
+doc-temp/
+docx-temp/
+Project_Report_merged.pdf
+Project_Report.docx
+~$oject_Report.docx
